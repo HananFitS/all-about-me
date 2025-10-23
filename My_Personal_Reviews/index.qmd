@@ -10,6 +10,7 @@ Berikut adalah hasil berdasarkan analisis dari chatgpt :
 
 
 UTS-1 – All About Me
+
 Kriteria	Skor	Alasan
 Orisinalitas	4/5	Narasi memperkenalkan diri cukup unik dan personal. Ada kesan autentik walau beberapa bagian masih generik.
 Keterlibatan	4/5	Gaya bahasa menarik dan komunikatif; struktur halaman memudahkan pembaca mengenal sosok penulis.
@@ -20,6 +21,7 @@ Total	15/20 → 75% (Baik)	Menunjukkan usaha memperkenalkan diri secara personal
 
 
 UTS-2 – Song for You
+
 Kriteria	Skor	Alasan
 Orisinalitas	4/5	Lagu/puisi memiliki tema yang personal dan tidak klise; ide terkesan tulus dan segar.
 Keterlibatan	4/5	Irama dan alur pesan cukup mengalir, audiens bisa terhubung dengan emosi yang disampaikan.
@@ -30,6 +32,7 @@ Total	15/20 → 75% (Baik)	Ekspresi emosional kuat; dapat ditingkatkan dengan vi
 
 
 UTS-3 – My Story for You
+
 Kriteria	Skor	Alasan
 Orisinalitas	4/5	Cerita yang dibawakan cukup segar dengan sudut pandang personal yang kuat.
 Keterlibatan	4/5	Alur cerita mengalir baik dan mampu mempertahankan perhatian pembaca.
@@ -40,6 +43,7 @@ Total	17/20 → 85% (Sangat Baik)	Cerita berhasil menggugah emosi dan menyampaik
 
 
 UTS-4 – My SHAPE
+
 Kriteria	Skor	Alasan
 Orisinalitas	4/5	Refleksi diri disajikan dengan jujur dan unik; tidak terasa seperti hasil template.
 Keterlibatan	4/5	Gaya penceritaan menarik dan mudah diikuti, memancing rasa ingin tahu pembaca.
