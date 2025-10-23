@@ -1,0 +1,10 @@
+.poem-accent {
+  background: #fffaf0;
+  border-left: 6px solid #ff7a18;
+  padding: 1.0rem 1.25rem;
+  border-radius: 6px;
+  margin: 1.25rem 0;
+  line-height: 1.6;
+  color: #222;
+}
+.poem-accent p { margin: 0 0 0.75rem; }
