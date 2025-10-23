@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 book:
-  title: "Armein Z. R. Langi"
+  title: "Hanan Fitra Salam"
   subtitle: "Portfolio Asesmen II-2100 KIPP"
-  author: "131902360 Armein Z R Langi"
-  date: "9/15/2025"
+  author: "18222133 Hanan Fitra Salam"
+  date: "10/19/2025"
   chapters:
     - index.qmd
     - All_About_me/index.qmd
@@ -29,8 +29,9 @@ format:
     theme:
       - cosmo
       - brand
+    css:
+      - styles/video.css
+      - styles/poem-highlights.css
+    include-after-body: includes/video-inject.html
   pdf:
     documentclass: scrreprt
-
-
-

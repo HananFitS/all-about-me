@@ -1,6 +1,1 @@
 # UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
-
-Apa itu berkonsep? 
-
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}

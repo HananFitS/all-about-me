@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.24">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>9&nbsp; UAS-4 My Knowledge – Armein Z. R. Langi</title>
+<title>9&nbsp; UAS-4 My Knowledge – Hanan Fitra Salam</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-70a47bd5681a7291082a5b9f83d58762.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -72,6 +72,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="../styles/video.css">
 </head>
 
 <body class="nav-sidebar floating quarto-light">
@@ -100,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="../index.html" class="sidebar-logo-link">
       </a>
     <div class="sidebar-title mb-0 py-0">
-      <a href="../">Armein Z. R. Langi</a> 
+      <a href="../">Hanan Fitra Salam</a> 
     </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -113,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Selamat Berjumpa</span></a>
+ <span class="menu-text">HALO SEMUANYA!!!</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -218,11 +219,104 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain 1) saya tulis <a href="Rekomendasi Presentasi Efektif(Contoh Makalah).pdf">makalah sebagai bahan utama</a> 2) lalu saya buat <a href="Contoh Transkrip Presentasi.pdf">transkrip ucapan lisan</a> 3) kemudian saya kembangkan <a href="Rekomendasi Presentasi (Contoh Slides).pdf">slide pendukung trnsskrip</a> 4) lalu saya memproduksivideo audio visual </p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ZbghfMvnPZc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div> <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ZbghfMvnPZc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
 
 
 
 </main> <!-- /main -->
+<script type="text/javascript">
+
+  document.addEventListener("DOMContentLoaded", function () {
+
+    try {
+
+      const offsetMeta = document.querySelector('meta[name="quarto:offset"]');
+
+      const offset = offsetMeta ? offsetMeta.getAttribute("content") : "./";
+
+      const pathname = window.location.pathname || "";
+
+
+
+      // Only inject on pages under My_Song_for_You
+
+      if (!pathname.includes("/My_Song_for_You/")) return;
+
+
+
+      const container = document.createElement("div");
+
+      container.className = "video-container";
+
+
+
+      const video = document.createElement("video");
+
+      video.setAttribute("controls", "");
+
+      // poster should be an image, not the video file
+
+      video.setAttribute("poster", offset + "images/AZRL.png");
+
+
+
+      const source = document.createElement("source");
+
+      // use the actual filename present in the repo
+
+      source.src = offset + "audio/Puisi.mp4";
+
+      source.type = "video/mp4";
+
+      video.appendChild(source);
+
+      container.appendChild(video);
+
+
+
+      const caption = document.createElement("div");
+
+      caption.className = "video-caption";
+
+      caption.textContent = "Why - A Poetry for You";
+
+
+
+      const main =
+
+        document.querySelector("main.content") ||
+
+        document.querySelector("main");
+
+      if (main) {
+
+        const firstP = main.querySelector("p");
+
+        if (firstP && firstP.parentNode) {
+
+          firstP.parentNode.insertBefore(container, firstP.nextSibling);
+
+          firstP.parentNode.insertBefore(caption, container.nextSibling);
+
+        } else {
+
+          main.appendChild(container);
+
+          main.appendChild(caption);
+
+        }
+
+      }
+
+    } catch (err) {
+
+      console.error("video-inject error:", err);
+
+    }
+
+  });
+
+</script>
+
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
