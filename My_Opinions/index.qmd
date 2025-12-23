@@ -1,1 +1,29 @@
-## UAS-3 My Opinions
+## UAS-2 My Opinions
+
+## Perubahan Iklim, Artificial Intelligence, dan Tanggung Jawab Agensi Manusia
+
+Menurut saya, perubahan iklim bukanlah sekadar krisis lingkungan, melainkan krisis kepemimpinan dan krisis pengambilan keputusan global. Data ilmiah telah tersedia selama puluhan tahun, laporan-laporan internasional terus diperbarui, dan teknologi Artificial Intelligence berkembang sangat pesat. Namun, kesenjangan terbesar justru terletak pada kemauan manusia untuk bertindak secara kolektif dan konsisten. Hal ini menunjukkan bahwa masalah utama bukan pada kurangnya pengetahuan, melainkan pada bagaimana pengetahuan tersebut dimaknai dan diterjemahkan menjadi tindakan nyata.
+
+Saya berpendapat bahwa di era Artificial Intelligence, manusia tidak lagi dapat berlindung di balik alasan keterbatasan informasi. Justru sebaliknya, kelimpahan data menuntut tingkat tanggung jawab yang lebih tinggi. Ketika sistem AI mampu memprediksi bencana iklim, memodelkan risiko, dan menunjukkan dampak jangka panjang secara kuantitatif, maka setiap keputusan untuk mengabaikan hasil analisis tersebut merupakan keputusan etis—bukan keputusan teknis semata.
+
+## AI Tidak Menggantikan Tanggung Jawab, tetapi Memperjelas Pilihan
+
+Dalam pandangan saya, Artificial Intelligence sering disalahpahami sebagai solusi otomatis yang dapat “mengambil alih” tanggung jawab manusia. Saya tidak sependapat dengan pandangan tersebut. AI justru berfungsi sebagai alat yang memperjelas konsekuensi dari pilihan manusia. Ketika AI menunjukkan bahwa suatu wilayah berisiko tinggi mengalami banjir atau kekeringan, sistem tersebut tidak membuat keputusan—manusialah yang memilih apakah akan bertindak atau tidak.
+
+Di sinilah konsep agensi menjadi sangat penting. Saya melihat bahwa kegagalan terbesar dalam penanganan perubahan iklim adalah dominannya narasi pasivitas, seolah-olah krisis ini adalah sesuatu yang “terjadi begitu saja” dan berada di luar kendali manusia. Padahal, perubahan iklim adalah hasil akumulasi keputusan manusia selama bertahun-tahun. Oleh karena itu, solusinya pun harus berangkat dari narasi yang menempatkan manusia sebagai aktor utama, bukan korban keadaan.
+
+## Perubahan Iklim sebagai Ujian Etika Teknologi
+
+Menurut saya, perubahan iklim juga merupakan ujian etika terbesar bagi pengembangan sistem dan teknologi informasi. Teknologi yang sama dapat digunakan untuk dua tujuan yang sangat berbeda, yaitu mempercepat eksploitasi sumber daya atau mendukung keberlanjutan jangka panjang. Pilihan ini tidak ditentukan oleh kecanggihan algoritma, melainkan oleh nilai yang ditanamkan dalam desain sistem.
+
+Saya berpendapat bahwa profesional di bidang Sistem dan Teknologi Informasi memiliki tanggung jawab moral untuk tidak hanya bertanya “apa yang bisa dilakukan teknologi?”, tetapi juga “untuk siapa teknologi ini bekerja?”. Jika sistem AI hanya melayani kepentingan ekonomi jangka pendek kelompok tertentu, maka teknologi tersebut justru memperparah ketimpangan yang diakibatkan oleh perubahan iklim.
+
+## Narasi Penebusan: Dari Krisis Menuju Kesadaran Kolektif
+
+Secara pribadi, saya memandang perubahan iklim sebagai peluang bagi umat manusia untuk menulis ulang narasi globalnya. Krisis ini dapat menjadi kisah kontaminasi di mana kemajuan berakhir pada kehancuran atau menjadi kisah penebusan, di mana kesadaran kolektif melahirkan transformasi sistemik. Artificial Intelligence, dalam konteks ini, bukanlah pahlawan utama, melainkan “eliksir” yang hanya bermakna jika digunakan dalam kerangka nilai yang tepat.
+
+Saya percaya bahwa peran generasi saat ini, termasuk mahasiswa dan calon profesional teknologi, adalah memastikan bahwa AI digunakan untuk memperkuat solidaritas global, melindungi kelompok rentan, dan mendukung keberlanjutan lintas generasi. Ini bukan tugas yang mudah, tetapi justru di situlah makna kepemimpinan di era VUCA, keberanian untuk mengambil keputusan yang benar meskipun tidak selalu populer.
+
+## Penutup Opini
+
+Sebagai kesimpulan, saya berpendapat bahwa perubahan iklim tidak dapat diselesaikan hanya dengan inovasi teknologi, tetapi juga tidak mungkin diselesaikan tanpa teknologi. Kuncinya terletak pada perpaduan antara kecerdasan buatan, sistem informasi yang bertanggung jawab, dan narasi kepemimpinan yang menumbuhkan agensi serta kepedulian kolektif. Tanpa ketiganya, AI hanya akan menjadi alat canggih yang gagal menjawab tantangan kemanusiaan paling mendasar di abad ini.
